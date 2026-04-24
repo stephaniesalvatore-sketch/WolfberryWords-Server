@@ -1,0 +1,6 @@
+{
+  "name": "wolfberrywords-server",
+  "version": "1.0.0",
+  "description": "WolfberryWords word of the day API",
+  "main": "netlify/functions/word.js"
+}
