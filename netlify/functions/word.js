@@ -15,7 +15,7 @@ exports.handler = async function(event, context) {
     headers: {
       'Content-Type': 'application/json',
       'Access-Control-Allow-Origin': '*',
-      'Cache-Control': 'public, max-age=3600' // cache for 1 hour
+      'Cache-Control': 'public, max-age=300' // cache for 5 minutes
     },
     body: JSON.stringify({
       word:       entry.word,
