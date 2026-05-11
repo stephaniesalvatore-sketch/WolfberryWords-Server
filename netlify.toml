@@ -1,6 +1,9 @@
 [build]
   functions = "netlify/functions"
 
+[functions]
+  included_files = ["words/**"]
+
 [[headers]]
   for = "/api/*"
   [headers.values]
