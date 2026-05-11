@@ -3,7 +3,7 @@ const path = require('path');
 
 exports.handler = async function(event, context) {
 
-  // Read words.json fresh on every request (no module-level caching)
+  // Read words.json fresh on every request (no module-level caching) v2
   const wordsPath = path.join(__dirname, '../../words/words.json');
   const words = JSON.parse(fs.readFileSync(wordsPath, 'utf8'));
 
