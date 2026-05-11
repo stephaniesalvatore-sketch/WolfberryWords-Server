@@ -88,5 +88,5 @@
   { word: "De Rigueur", phonetic: "/duh - ree - GUHR /", pos: "adjective", definition: "Essential or mandatory in fashion" },
   { word: "Bosky", phonetic: "/ BAHS - kee /", pos: "adjective", definition: "Having an abundance of trees, shrubs, woodlands" },
   { word: "Fracas", phonetic: "/ FRAK - uhs / ", pos: "noun", definition: "A disorderly quarrel" },
-  { word: "Invective", phonetic: "/ ihn - VEK - tihv /", pos: "noun", definition: "Harsh language sharped to a blade and swung" },
+  { word: "Invective", phonetic: "/ ihn - VEK - tihv /", pos: "noun", definition: "Harsh language sharped to a blade and swung" }
 ]
